@@ -27,6 +27,7 @@ Download this repository with **Code -> Download ZIP**, unzip it, or clone it:
 git clone https://github.com/McBravoTat/cemu-botw-dualsense-macos.git
 cd cemu-botw-dualsense-macos
 brew install python hidapi
+chmod +x "Start BOTW Triggers.command"
 ```
 
 If Command Line Tools are missing, install them with `xcode-select --install`.

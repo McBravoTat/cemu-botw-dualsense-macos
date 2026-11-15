@@ -20,6 +20,7 @@ Cemu 3005cb7. Точные хеши и ограничения указаны в 
 git clone https://github.com/McBravoTat/cemu-botw-dualsense-macos.git
 cd cemu-botw-dualsense-macos
 brew install python hidapi
+chmod +x "Start BOTW Triggers.command"
 python3 doctor.py
 ```
 
