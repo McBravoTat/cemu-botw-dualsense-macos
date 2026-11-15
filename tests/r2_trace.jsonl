@@ -1,0 +1,9 @@
+{"t": 0.0, "event": "raw", "hex": "01808080800800000000", "synthetic": true}
+{"t": 0.1, "event": "raw", "hex": "01808080800808000014", "synthetic": true}
+{"t": 0.2, "event": "raw", "hex": "01808080800808000028", "synthetic": true}
+{"t": 0.30000000000000004, "event": "raw", "hex": "018080808008080000ff", "synthetic": true}
+{"t": 0.4, "event": "raw", "hex": "018080808008080000c8", "synthetic": true}
+{"t": 0.5, "event": "raw", "hex": "0180808080080800000a", "synthetic": true}
+{"t": 0.6000000000000001, "event": "raw", "hex": "01808080800800000000", "synthetic": true}
+{"t": 0.7000000000000001, "event": "raw", "hex": "01808080800808000032", "synthetic": true}
+{"t": 0.8, "event": "raw", "hex": "01808080800800000000", "synthetic": true}
